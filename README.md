@@ -1,4 +1,4 @@
-Spam Detection System
+🎥Spam Detection System
 Welcome to the Spam Detection System! This project aims to build a robust spam detection system using machine learning techniques to classify messages as spam or not spam.
 
 Table of Contents
